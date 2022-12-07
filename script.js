@@ -1,12 +1,4 @@
-let onePhone = 119.95;
-let maxPhones = 30;
-let tax = 5;
+// alert("Hello from javascript");
 
-let sum = onePhone * maxPhones
-console.log(sum); 
+console.log("Hello from JavaScript!");
 
-let  sumWithTax = onePhone * (1+(tax/100));
-console.log(sumWithTax);
-
-let totalprice = sumWithTax * maxPhones;
-console.log(totalprice);
